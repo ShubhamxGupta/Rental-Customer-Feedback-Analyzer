@@ -68,9 +68,9 @@ This project performs **sentiment analysis** and **feature extraction** on custo
 
 ## 📊 Results Snapshot
 
-| Customer Review | Cleaned Review | Sentiment | has_long_lineup | has_lower_prices | ... |
-|-----------------|----------------|-----------|------------------|------------------|-----|
-| "Very long lineup but clean." | long lineup clean | negative | ✅ | ❌ | ... |
+| Customer Review | Cleaned Review | Sentiment | has_long_lineup | has_lower_prices |
+|-----------------|----------------|-----------|------------------|------------------|
+| "Very long lineup but clean." | long lineup clean | negative | ✅ | ❌ |
 
 ---
 
